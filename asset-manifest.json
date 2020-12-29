@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/city-kaleidoscope/static/css/main.5bc92eca.chunk.css",
+    "main.js": "/city-kaleidoscope/static/js/main.7c374764.chunk.js",
+    "main.js.map": "/city-kaleidoscope/static/js/main.7c374764.chunk.js.map",
+    "runtime-main.js": "/city-kaleidoscope/static/js/runtime-main.a5275ef2.js",
+    "runtime-main.js.map": "/city-kaleidoscope/static/js/runtime-main.a5275ef2.js.map",
+    "static/css/2.1d23e74c.chunk.css": "/city-kaleidoscope/static/css/2.1d23e74c.chunk.css",
+    "static/js/2.5db9dfbd.chunk.js": "/city-kaleidoscope/static/js/2.5db9dfbd.chunk.js",
+    "static/js/2.5db9dfbd.chunk.js.map": "/city-kaleidoscope/static/js/2.5db9dfbd.chunk.js.map",
+    "index.html": "/city-kaleidoscope/index.html",
+    "static/css/2.1d23e74c.chunk.css.map": "/city-kaleidoscope/static/css/2.1d23e74c.chunk.css.map",
+    "static/css/main.5bc92eca.chunk.css.map": "/city-kaleidoscope/static/css/main.5bc92eca.chunk.css.map",
+    "static/js/2.5db9dfbd.chunk.js.LICENSE.txt": "/city-kaleidoscope/static/js/2.5db9dfbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5275ef2.js",
+    "static/css/2.1d23e74c.chunk.css",
+    "static/js/2.5db9dfbd.chunk.js",
+    "static/css/main.5bc92eca.chunk.css",
+    "static/js/main.7c374764.chunk.js"
+  ]
+}
